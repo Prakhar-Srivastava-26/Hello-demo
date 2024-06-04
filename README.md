@@ -1,1 +1,1 @@
-# Hello-demo
+This is a mini project in which i have made a analog clock using HTML,CSS and Javascript.This clock displays the real time and it uses the 'setInterval()'to ensure that the clocks hands are updated every second,thus keeping the clock display accurate and continuosly ticking.
